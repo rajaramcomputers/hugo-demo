@@ -1,12 +1,12 @@
-baseURL: ""
+baseURL: "https://hugoyanan.netlify.app"
 languageCode: en-us
 title: Rajaram Systems
 theme: PaperMod
 
 params:
   homeInfoParams:
-    Title: "Hello Welcome"
-    Content: Welcome to our blog. Here you'll find a lot of cool information about a lot of cool stuff
+    Title: "Hello Welcome to Chapter of Hugo Installation"
+    Content: Welcome to our blog. Here you'll find a step by information to install Hugo
   socialIcons:
     - name: facebook
       url: "https://facebook.com"
