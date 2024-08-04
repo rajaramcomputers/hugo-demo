@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Go on Rajaram Systems</title>
+    <link>http://localhost:1313/tags/go/</link>
+    <description>Recent content in Go on Rajaram Systems</description>
+    <generator>Hugo -- 0.130.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Aug 2024 12:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Go Code Example</title>
+      <link>http://localhost:1313/posts/third/</link>
+      <pubDate>Sun, 04 Aug 2024 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/third/</guid>
+      <description>This is a Go code example using the net/http package:
+package main import ( &amp;#34;fmt&amp;#34; &amp;#34;log&amp;#34; &amp;#34;net/http&amp;#34; ) func main() { http.HandleFunc(&amp;#34;/&amp;#34;, func(w http.ResponseWriter, r *http.Request) { fmt.Fprintln(w, &amp;#34;Hello, World!&amp;#34;) }) log.Fatal(http.ListenAndServe(&amp;#34;:3000&amp;#34;, nil)) } </description>
+    </item>
+  </channel>
+</rss>
