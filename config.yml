@@ -36,4 +36,15 @@ menu:
       name: Archives
       url: /archives/
       weight: 30
+    - identifier: "Medium Articles"
+      name: Medium
+      url: https://medium.com/@drramkumarlakshminarayanan
+      weight: 40
+      target: "_blank"
+
+    - identifier: "Rajaram Systems"
+      name: Rajaram Systems
+      url: https://rajaramsystems.com
+      weight: 50
+      target: "_blank"
 
