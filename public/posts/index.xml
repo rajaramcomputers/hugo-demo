@@ -17,6 +17,13 @@
 package main import ( &amp;#34;fmt&amp;#34; &amp;#34;log&amp;#34; &amp;#34;net/http&amp;#34; ) func main() { http.HandleFunc(&amp;#34;/&amp;#34;, func(w http.ResponseWriter, r *http.Request) { fmt.Fprintln(w, &amp;#34;Hello, World!&amp;#34;) }) log.Fatal(http.ListenAndServe(&amp;#34;:3000&amp;#34;, nil)) } </description>
     </item>
     <item>
+      <title>Go Customer Service Example</title>
+      <link>http://localhost:1313/posts/go-customer-service/</link>
+      <pubDate>Sun, 04 Aug 2024 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/go-customer-service/</guid>
+      <description>A Go code example demonstrating how to set up a basic HTTP server with HTTPS support.</description>
+    </item>
+    <item>
       <title>Creating the First Post</title>
       <link>http://localhost:1313/posts/second/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
