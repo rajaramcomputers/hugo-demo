@@ -7,6 +7,7 @@ cover:
     caption: "Hugo Installation"
 tags: ["html", "css"]
 categories: ["tech"]
+summary: "Installation of Hugo in WSL with step by step"
 ---
 
 ## Installing Hugo

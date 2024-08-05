@@ -24,6 +24,14 @@ package main import ( &amp;#34;fmt&amp;#34; &amp;#34;log&amp;#34; &amp;#34;net/h
       <description>A Go code example demonstrating how to set up a basic HTTP server with HTTPS support.</description>
     </item>
     <item>
+      <title></title>
+      <link>http://localhost:1313/posts/fourth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/fourth/</guid>
+      <description>Go Code Example Here is an example of a simple Go Custom server:
+package main import ( &amp;#34;context&amp;#34; &amp;#34;fmt&amp;#34; &amp;#34;log&amp;#34; &amp;#34;net/http&amp;#34; ) func main() { http.HandleFunc(&amp;#34;/&amp;#34;, func(w http.ResponseWriter, r *http.Request) { fmt.Fprintln(w, &amp;#34;Customer Service&amp;#34;) }) s := http.Server{ Addr: &amp;#34;:3000&amp;#34;, } go func() { log.Fatal(s.ListenAndServeTLS(&amp;#34;./cert.pem&amp;#34;, &amp;#34;./key.pem&amp;#34;)) }() fmt.Println(&amp;#34;Server started and listening on :3000 &amp;lt;Enter&amp;gt; to shutdown&amp;#34;) fmt.Scanln() s.Shutdown(context.Background()) fmt.Println(&amp;#34;Server stopped&amp;#34;) } </description>
+    </item>
+    <item>
       <title>Creating the First Post</title>
       <link>http://localhost:1313/posts/second/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

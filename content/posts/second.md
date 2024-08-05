@@ -7,4 +7,5 @@ cover:
     caption: "Creating the First Post"
 tags: ["html", "css"]
 categories: ["post"]
+summary: "this is an example of how to create the first post in hugo"
 ---

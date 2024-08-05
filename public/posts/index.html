@@ -172,6 +172,19 @@ package main import ( &#34;fmt&#34; &#34;log&#34; &#34;net/http&#34; ) func main
 </article>
 
 <article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Go Code Example Here is an example of a simple Go Custom server:
+package main import ( &#34;context&#34; &#34;fmt&#34; &#34;log&#34; &#34;net/http&#34; ) func main() { http.HandleFunc(&#34;/&#34;, func(w http.ResponseWriter, r *http.Request) { fmt.Fprintln(w, &#34;Customer Service&#34;) }) s := http.Server{ Addr: &#34;:3000&#34;, } go func() { log.Fatal(s.ListenAndServeTLS(&#34;./cert.pem&#34;, &#34;./key.pem&#34;)) }() fmt.Println(&#34;Server started and listening on :3000 &lt;Enter&gt; to shutdown&#34;) fmt.Scanln() s.Shutdown(context.Background()) fmt.Println(&#34;Server stopped&#34;) } </p>
+  </div>
+  <footer class="entry-footer">1 min</footer>
+  <a class="entry-link" aria-label="post link to " href="http://localhost:1313/posts/fourth/"></a>
+</article>
+
+<article class="post-entry"> 
 <figure class="entry-cover"><img loading="lazy" src="http://localhost:1313/img/hugologo.jpg" alt="This is a post image">
 </figure>
   <header class="entry-header">
