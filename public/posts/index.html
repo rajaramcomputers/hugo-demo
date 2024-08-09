@@ -148,6 +148,18 @@
 
 <article class="post-entry"> 
   <header class="entry-header">
+    <h2 class="entry-hint-parent">Go Custom Server Example
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>A Go code example demonstrating how to set up a basic Custom HTTP server with HTTPS support.</p>
+  </div>
+  <footer class="entry-footer"><span title='2024-08-05 12:00:00 +0000 +0000'>August 5, 2024</span>&nbsp;·&nbsp;1 min</footer>
+  <a class="entry-link" aria-label="post link to Go Custom Server Example" href="http://localhost:1313/posts/fourth/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
     <h2 class="entry-hint-parent">Go Code Example
     </h2>
   </header>
@@ -173,15 +185,14 @@ package main import ( &#34;fmt&#34; &#34;log&#34; &#34;net/http&#34; ) func main
 
 <article class="post-entry"> 
   <header class="entry-header">
-    <h2 class="entry-hint-parent">
+    <h2 class="entry-hint-parent">Creating the cluster
     </h2>
   </header>
   <div class="entry-content">
-    <p>Go Code Example Here is an example of a simple Go Custom server:
-package main import ( &#34;context&#34; &#34;fmt&#34; &#34;log&#34; &#34;net/http&#34; ) func main() { http.HandleFunc(&#34;/&#34;, func(w http.ResponseWriter, r *http.Request) { fmt.Fprintln(w, &#34;Customer Service&#34;) }) s := http.Server{ Addr: &#34;:3000&#34;, } go func() { log.Fatal(s.ListenAndServeTLS(&#34;./cert.pem&#34;, &#34;./key.pem&#34;)) }() fmt.Println(&#34;Server started and listening on :3000 &lt;Enter&gt; to shutdown&#34;) fmt.Scanln() s.Shutdown(context.Background()) fmt.Println(&#34;Server stopped&#34;) } </p>
+    <p>this is an example of how to create the first post in hugo</p>
   </div>
-  <footer class="entry-footer">1 min</footer>
-  <a class="entry-link" aria-label="post link to " href="http://localhost:1313/posts/fourth/"></a>
+  <footer class="entry-footer">2 min</footer>
+  <a class="entry-link" aria-label="post link to Creating the cluster" href="http://localhost:1313/posts/cluster/"></a>
 </article>
 
 <article class="post-entry"> 
@@ -192,7 +203,7 @@ package main import ( &#34;context&#34; &#34;fmt&#34; &#34;log&#34; &#34;net/htt
     </h2>
   </header>
   <div class="entry-content">
-    <p></p>
+    <p>this is an example of how to create the first post in hugo</p>
   </div>
   <footer class="entry-footer">0 min</footer>
   <a class="entry-link" aria-label="post link to Creating the First Post" href="http://localhost:1313/posts/second/"></a>
@@ -206,14 +217,7 @@ package main import ( &#34;context&#34; &#34;fmt&#34; &#34;log&#34; &#34;net/htt
     </h2>
   </header>
   <div class="entry-content">
-    <p>Installing Hugo Steps learnt in Installing Hugo In WSL, install the latest version by the using the following command:
-wget https://github.com/gohugoio/hugo/releases/download/v0.130.0/hugo_0.130.0_Linux-64bit.tar.gz
-Extract Hugo Binary: tar -xzvf hugo_0.130.0_Linux-64bit.tar.gz
-Move Hugo Binary to /usr/local/bin: sudo mv /root/hugo /usr/local/bin/
-Ensure Hugo Binary is Executable: sudo chmod &#43;x /usr/local/bin/hugo
-Verify PATH includes /usr/local/bin: echo $PATH | grep /usr/local/bin
-Check Hugo Version Directly from /usr/local/bin: /usr/local/bin/hugo version
-Create Symlink in /usr/bin (if needed): sudo ln -s /usr/local/bin/hugo /usr/bin/hugo...</p>
+    <p>Installation of Hugo in WSL with step by step</p>
   </div>
   <footer class="entry-footer">1 min</footer>
   <a class="entry-link" aria-label="post link to Installing Hugo in WSL (Ubuntu)" href="http://localhost:1313/posts/first/"></a>

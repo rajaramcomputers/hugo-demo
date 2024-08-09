@@ -31,6 +31,13 @@ package main import ( &amp;#34;fmt&amp;#34; &amp;#34;log&amp;#34; &amp;#34;net/h
       <description>A Go code example demonstrating how to set up a basic HTTP server with HTTPS support.</description>
     </item>
     <item>
+      <title>Creating the cluster</title>
+      <link>http://localhost:1313/posts/cluster/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/cluster/</guid>
+      <description>this is an example of how to create the first post in hugo</description>
+    </item>
+    <item>
       <title>Creating the First Post</title>
       <link>http://localhost:1313/posts/second/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

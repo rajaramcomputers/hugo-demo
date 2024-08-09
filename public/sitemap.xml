@@ -3,10 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2024-08-04T12:00:00+00:00</lastmod>
+    <lastmod>2024-08-05T12:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/go/</loc>
-    <lastmod>2024-08-04T12:00:00+00:00</lastmod>
+    <lastmod>2024-08-05T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/fourth/</loc>
+    <lastmod>2024-08-05T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/net/http/</loc>
+    <lastmod>2024-08-05T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-08-05T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/programming/</loc>
+    <lastmod>2024-08-05T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-08-05T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-08-05T12:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/third/</loc>
     <lastmod>2024-08-04T12:00:00+00:00</lastmod>
@@ -14,24 +32,11 @@
     <loc>http://localhost:1313/posts/go-customer-service/</loc>
     <lastmod>2024-08-04T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/net/http/</loc>
-    <lastmod>2024-08-04T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-08-04T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/programming/</loc>
-    <lastmod>2024-08-04T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-08-04T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-08-04T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/fourth/</loc>
-  </url><url>
     <loc>http://localhost:1313/archives/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/cluster/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/cluster/</loc>
   </url><url>
     <loc>http://localhost:1313/posts/second/</loc>
   </url><url>
@@ -40,6 +45,8 @@
     <loc>http://localhost:1313/tags/html/</loc>
   </url><url>
     <loc>http://localhost:1313/posts/first/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/k3s/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/post/</loc>
   </url><url>

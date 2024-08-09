@@ -6,20 +6,27 @@
     <description>Recent content in Tags on Yanan Research</description>
     <generator>Hugo -- 0.130.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Aug 2024 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 12:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Go</title>
       <link>http://localhost:1313/tags/go/</link>
-      <pubDate>Sun, 04 Aug 2024 12:00:00 +0000</pubDate>
+      <pubDate>Mon, 05 Aug 2024 12:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/go/</guid>
       <description></description>
     </item>
     <item>
       <title>Net/Http</title>
       <link>http://localhost:1313/tags/net/http/</link>
-      <pubDate>Sun, 04 Aug 2024 12:00:00 +0000</pubDate>
+      <pubDate>Mon, 05 Aug 2024 12:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/net/http/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cluster</title>
+      <link>http://localhost:1313/tags/cluster/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/cluster/</guid>
       <description></description>
     </item>
     <item>
@@ -34,6 +41,13 @@
       <link>http://localhost:1313/tags/html/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/html/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>K3s</title>
+      <link>http://localhost:1313/tags/k3s/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/k3s/</guid>
       <description></description>
     </item>
   </channel>

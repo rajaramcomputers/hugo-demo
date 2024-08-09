@@ -12,21 +12,14 @@
       <link>http://localhost:1313/posts/second/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/second/</guid>
-      <description></description>
+      <description>this is an example of how to create the first post in hugo</description>
     </item>
     <item>
       <title>Installing Hugo in WSL (Ubuntu)</title>
       <link>http://localhost:1313/posts/first/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/first/</guid>
-      <description>Installing Hugo Steps learnt in Installing Hugo In WSL, install the latest version by the using the following command:
-wget https://github.com/gohugoio/hugo/releases/download/v0.130.0/hugo_0.130.0_Linux-64bit.tar.gz
-Extract Hugo Binary: tar -xzvf hugo_0.130.0_Linux-64bit.tar.gz
-Move Hugo Binary to /usr/local/bin: sudo mv /root/hugo /usr/local/bin/
-Ensure Hugo Binary is Executable: sudo chmod +x /usr/local/bin/hugo
-Verify PATH includes /usr/local/bin: echo $PATH | grep /usr/local/bin
-Check Hugo Version Directly from /usr/local/bin: /usr/local/bin/hugo version
-Create Symlink in /usr/bin (if needed): sudo ln -s /usr/local/bin/hugo /usr/bin/hugo</description>
+      <description>Installation of Hugo in WSL with step by step</description>
     </item>
   </channel>
 </rss>
