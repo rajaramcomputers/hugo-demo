@@ -44,5 +44,16 @@ package main import ( &amp;#34;fmt&amp;#34; &amp;#34;log&amp;#34; &amp;#34;net/h
       <guid>http://localhost:1313/posts/first/</guid>
       <description>Installation of Hugo in WSL with step by step</description>
     </item>
+    <item>
+      <title>Setting Alias in WSL</title>
+      <link>http://localhost:1313/posts/aliasinwsl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/aliasinwsl/</guid>
+      <description>For Bash: Open the .bashrc file in your home directory using a text editor:
+nano ~/.bashrc Add the following line at the end of the file:
+alias k=kubectl Save the file and exit the editor:
+Press Ctrl + O to save. Press Enter to confirm. Press Ctrl + X to exit. Apply the changes by sourcing the .bashrc file:
+source ~/.bashrc For Zsh: Open the .zshrc file in your home directory using a text editor:</description>
+    </item>
   </channel>
 </rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Alias on Yanan Research</title>
+    <link>http://localhost:1313/tags/alias/</link>
+    <description>Recent content in Alias on Yanan Research</description>
+    <generator>Hugo -- 0.130.0</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/alias/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Setting Alias in WSL</title>
+      <link>http://localhost:1313/posts/aliasinwsl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/aliasinwsl/</guid>
+      <description>For Bash: Open the .bashrc file in your home directory using a text editor:
+nano ~/.bashrc Add the following line at the end of the file:
+alias k=kubectl Save the file and exit the editor:
+Press Ctrl + O to save. Press Enter to confirm. Press Ctrl + X to exit. Apply the changes by sourcing the .bashrc file:
+source ~/.bashrc For Zsh: Open the .zshrc file in your home directory using a text editor:</description>
+    </item>
+  </channel>
+</rss>

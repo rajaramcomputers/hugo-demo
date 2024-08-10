@@ -32,11 +32,9 @@
     <loc>http://localhost:1313/posts/go-customer-service/</loc>
     <lastmod>2024-08-04T12:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/alias/</loc>
+  </url><url>
     <loc>http://localhost:1313/archives/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/cluster/</loc>
-  </url><url>
-    <loc>http://localhost:1313/posts/cluster/</loc>
   </url><url>
     <loc>http://localhost:1313/posts/second/</loc>
   </url><url>
@@ -46,10 +44,12 @@
   </url><url>
     <loc>http://localhost:1313/posts/first/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/k3s/</loc>
-  </url><url>
     <loc>http://localhost:1313/categories/post/</loc>
   </url><url>
+    <loc>http://localhost:1313/posts/aliasinwsl/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/tech/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/wsl/</loc>
   </url>
 </urlset>
