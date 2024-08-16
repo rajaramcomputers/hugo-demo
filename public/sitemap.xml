@@ -34,6 +34,8 @@
   </url><url>
     <loc>http://localhost:1313/tags/alias/</loc>
   </url><url>
+    <loc>http://localhost:1313/posts/fifth/</loc>
+  </url><url>
     <loc>http://localhost:1313/archives/</loc>
   </url><url>
     <loc>http://localhost:1313/posts/second/</loc>
