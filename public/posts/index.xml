@@ -31,13 +31,6 @@ package main import ( &amp;#34;fmt&amp;#34; &amp;#34;log&amp;#34; &amp;#34;net/h
       <description>A Go code example demonstrating how to set up a basic HTTP server with HTTPS support.</description>
     </item>
     <item>
-      <title>Anand</title>
-      <link>http://localhost:1313/posts/fifth/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/fifth/</guid>
-      <description> </description>
-    </item>
-    <item>
       <title>Creating the First Post</title>
       <link>http://localhost:1313/posts/second/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -61,6 +54,13 @@ nano ~/.bashrc Add the following line at the end of the file:
 alias k=kubectl Save the file and exit the editor:
 Press Ctrl + O to save. Press Enter to confirm. Press Ctrl + X to exit. Apply the changes by sourcing the .bashrc file:
 source ~/.bashrc For Zsh: Open the .zshrc file in your home directory using a text editor:</description>
+    </item>
+    <item>
+      <title>The Price of Bananas</title>
+      <link>http://localhost:1313/posts/fifth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/fifth/</guid>
+      <description>An experience by the traveller</description>
     </item>
   </channel>
 </rss>
