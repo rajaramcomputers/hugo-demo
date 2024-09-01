@@ -38,18 +38,18 @@ package main import ( &amp;#34;fmt&amp;#34; &amp;#34;log&amp;#34; &amp;#34;net/h
       <description>this is an example of how to create the first post in hugo</description>
     </item>
     <item>
-      <title>Discussion with Raja</title>
-      <link>http://localhost:1313/posts/sixth/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/sixth/</guid>
-      <description>We had a short discussion on how to anaalyse the performance in the k3s cluster.</description>
-    </item>
-    <item>
       <title>Installing Hugo in WSL (Ubuntu)</title>
       <link>http://localhost:1313/posts/first/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/first/</guid>
       <description>Installation of Hugo in WSL with step by step</description>
+    </item>
+    <item>
+      <title>Mulk Raj Anand Stories</title>
+      <link>http://localhost:1313/posts/sixth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/sixth/</guid>
+      <description>some interesting words from the stories of mulk raj anand</description>
     </item>
     <item>
       <title>Setting Alias in WSL</title>

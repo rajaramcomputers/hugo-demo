@@ -45,6 +45,13 @@ package main import ( &amp;#34;fmt&amp;#34; &amp;#34;log&amp;#34; &amp;#34;net/h
       <description>Installation of Hugo in WSL with step by step</description>
     </item>
     <item>
+      <title>Mulk Raj Anand Stories</title>
+      <link>http://localhost:1313/posts/sixth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/sixth/</guid>
+      <description>some interesting words from the stories of mulk raj anand</description>
+    </item>
+    <item>
       <title>Setting Alias in WSL</title>
       <link>http://localhost:1313/posts/aliasinwsl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

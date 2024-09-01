@@ -44,13 +44,21 @@
   </url><url>
     <loc>http://localhost:1313/posts/first/</loc>
   </url><url>
+    <loc>http://localhost:1313/posts/sixth/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/post/</loc>
   </url><url>
     <loc>http://localhost:1313/posts/aliasinwsl/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/story/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/story-mulk-raj-anand-words/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/tech/</loc>
   </url><url>
     <loc>http://localhost:1313/posts/fifth/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/words-collections/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/wsl/</loc>
   </url>
